@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+}
+
+span {
+    color: aliceblue;
+    font-size: 60px;
+}
+
+img {
+    width: 800px;
+}
+
+.titulo {
+    color: aliceblue;
+    font-size: 60px;
+}
+
+.titulo2 {
+    color: aliceblue;
+    font-size: 35px;
+}
+
+.titulo3 {
+    color: aliceblue;
+    font-size: 30px;
+}
+
+p {
+    color: aliceblue;
+    font-size: 20px;
+}
